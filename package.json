@@ -33,10 +33,5 @@
     "tabWidth": 2,
     "semi": true,
     "singleQuote": true
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
   }
 }
